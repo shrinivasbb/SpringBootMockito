@@ -4,7 +4,7 @@ Testing Spring boot APIs using Mockito
 
 [![Build Status](https://semaphoreci.com/api/v1/shrinivasb/springbootmockito/branches/master/badge.svg)](https://semaphoreci.com/shrinivasb/springbootmockito)
 
-This project uses a library which reduces all the boilerplate code required for building the POJOs for the REST body format using <B>LOMBOK LIBRARY - https://projectlombok.org/ </B>. This helps in reducing the Getters and Setters which are extensively used while building POJO classes to a single line which can be declared as just as variables along with Lombok annotations.
+This project uses a library which reduces all the boilerplate code required for building the POJOs for the REST body format using <B>LOMBOK LIBRARY - https://projectlombok.org/ </B>. This helps in replacing the Getters and Setters with a single line which can be declared as just as variables along with Lombok annotations.
 
 Mockito and MockMVC Springboot libraries are used for creating tests in Junit Framework. 
 
